@@ -16,8 +16,8 @@ Built purely for **fun, learning, and experimentation**, this project explores h
 
 ### 📱 Android Controller App
 
-👉 **GitHub Release (v1.0.0+1)**
-[https://github.com/Abubakar-doc/steer_beamng/releases/tag/android-v1.0.0%2B1](https://github.com/Abubakar-doc/steer_beamng/releases/tag/android-v1.0.0%2B1)
+👉 **GitHub Release (v1.0.0+2)**
+https://github.com/Abubakar-doc/steer_beamng/releases/tag/android-v1.0.0%2B2
 
 👉 **Google Drive (backup)**
 [https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link](https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link)
