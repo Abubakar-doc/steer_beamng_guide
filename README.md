@@ -6,6 +6,14 @@ Built purely for **fun, learning, and experimentation**, this project explores h
 
 ---
 
+## 💬 Community
+
+Join the discussion on Discord:  
+👉 https://discord.gg/ubXXndzd
+
+
+---
+
 ## 📸 Screenshot
 
 ![steerBeamng](https://github.com/user-attachments/assets/de07cf42-f6e3-4830-940c-f554a8eecbe3)
