@@ -3,8 +3,7 @@
   <img src="https://github.com/user-attachments/assets/de07cf42-f6e3-4830-940c-f554a8eecbe3" height="200" />
 </p>
 
-
-**Steer BeamNG** is an **experimental hobby project** that lets you control **BeamNG.drive** using an **Android phone as a steering wheel** — no physical wheel required.
+**Steer BeamNG** is an **hobby project** that gives you an **enhanced driving experience** in any game that supports **steering hardware**, using an **Android phone as a controller**.
 
 Built purely for **fun, learning, and experimentation**, this project explores how far a mobile device can replicate real steering hardware.
 
