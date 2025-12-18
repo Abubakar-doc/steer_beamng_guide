@@ -27,21 +27,21 @@ Join the discussion on Discord:
 
 ### 📱 Android Controller App
 
-👉 **GitHub Release (v1.3)**
-[https://github.com/Abubakar-doc/steer_beamng/releases/tag/android-v1.0.0%2B2](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v1.3)
+👉 **GitHub Release (v1.3)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v1.3)
 
-👉 **Google Drive (backup)**
-[https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link](https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link)
+👉 **Google Drive (backup)**  
+[Download](https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link)
 
 ---
 
 ### 🖥️ Windows Helper App
 
-👉 **GitHub Release (v1.0.0)**
-[https://github.com/Abubakar-doc/steer_beamng/releases/tag/v1.0.0](https://github.com/Abubakar-doc/steer_beamng/releases/tag/v1.0.0)
+👉 **GitHub Release (v1.0.0)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng/releases/tag/v1.0.0)
 
-👉 **Google Drive (backup)**
-[https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
+👉 **Google Drive (backup)**  
+[Download](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
 
 ---
 
