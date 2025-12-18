@@ -6,19 +6,17 @@ Built purely for **fun, learning, and experimentation**, this project explores h
 
 ---
 
-## 📥 Downloads
-
-[![Total Downloads](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/total.svg)]()
-[![Latest Release Downloads](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/latest/total.svg)]()
-
----
-
 ## 💬 Community
 
 Join the discussion on Discord:  
 👉 https://discord.gg/ubXXndzd
 
+---
 
+## 📥 Downloads
+
+![Total Downloads](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/total.svg?color=black&labelColor=black)
+![Latest Release](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/latest/total.svg?color=black&labelColor=black)
 ---
 
 ## 📸 Screenshot
