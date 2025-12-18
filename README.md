@@ -13,8 +13,6 @@ Join the discussion on Discord:
 
 ---
 
-## 📊 Analytics
-
 ## 📥 Downloads
 
 [![Total Downloads](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/total.svg)]()
