@@ -13,10 +13,13 @@ Join the discussion on Discord:
 
 ---
 
-## 📥 Downloads
+## 📊 Analytics
 
 ![Total Downloads](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/total.svg?color=black&labelColor=black)
-![Latest Release](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/latest/total.svg?color=black&labelColor=black)
+![Latest Release Downloads](https://img.shields.io/github/downloads/Abubakar-doc/steer_beamng_guide/latest/total.svg?color=black&labelColor=black)
+![Repo Stars](https://img.shields.io/github/stars/Abubakar-doc/steer_beamng_guide?color=black&labelColor=black)
+![Repo Views](https://komarev.com/ghpvc/?username=Abubakar-doc&repo=steer_beamng_guide&color=black)
+
 ---
 
 ## 📸 Screenshot
