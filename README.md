@@ -38,7 +38,7 @@ Join the discussion on Discord:
 ### 🖥️ Windows Helper App
 
 👉 **GitHub Release (v1.1)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng/releases/tag/v1.0.1)
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v1.0.1)
 
 👉 **Google Drive (backup)**  
 [Download](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
