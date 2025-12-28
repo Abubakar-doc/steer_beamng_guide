@@ -12,7 +12,7 @@ Built purely for **fun, learning, and experimentation**, this project explores h
 ## 💬 Community
 
 Join the discussion on Discord:  
-👉 https://discord.gg/ubXXndzd
+👉 [https://discord.gg/ubXXndzd](https://discord.gg/6xbQEECnma)
 
 ---
 
