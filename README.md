@@ -45,6 +45,23 @@ Join the discussion on Discord:
 
 ---
 
+## 🆕 What’s New (Latest Updates)
+
+### 📱 Mobile App (v0.3)
+* Accelerometer (tilt) steering support
+* Static gear shifter option
+* Faster button hold response
+* Layout creation, editing & backup
+* Support to add/spawn custom control buttons
+* Multiple pages support
+
+### 🖥️ Windows App (v2.0)
+* Support for more custom buttons
+* Increased custom button limit (up to 98)
+* Improved compatibility with mobile layouts
+
+---
+
 <details>
 <summary><strong>🚀 Project Overview</strong></summary>
 
