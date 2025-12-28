@@ -30,15 +30,15 @@ Join the discussion on Discord:
 👉 **GitHub Release (v0.3)**  
 [Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v0.3)
 
-👉 **GitHub Release (v2.0)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v2.0)
+👉 **Google Drive (backup)**  
+[Download](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
 
 ---
 
 ### 🖥️ Windows Helper App
 
-👉 **GitHub Release (v1.1)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v1.0.1)
+👉 **GitHub Release (v2.0)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v2.0)
 
 👉 **Google Drive (backup)**  
 [Download](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
