@@ -253,21 +253,6 @@ All with **one thumb**.
 ---
 
 <details>
-<summary><strong>🔮 Planned Next Update</strong></summary>
-
-* BeamNG → Mobile **telemetry**
-* Sync controller UI with game:
-
-  * Gear state
-  * Speed
-  * RPM
-  * Vehicle status
-
-</details>
-
----
-
-<details>
 <summary><strong>⚠️ Disclaimer</strong></summary>
 
 * Personal hobby project
