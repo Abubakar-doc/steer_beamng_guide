@@ -27,18 +27,18 @@ Join the discussion on Discord:
 
 ### 📱 Android Controller App
 
-👉 **GitHub Release (v0.3)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v0.3)
+👉 **GitHub Release (v0.4)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v0.4)
 
-👉 **GitHub Release (v2.0)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v2.0)
+👉 **Google Drive (backup)**  
+[Download](https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link)
 
 ---
 
 ### 🖥️ Windows Helper App
 
-👉 **GitHub Release (v1.1)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v1.0.1)
+👉 **GitHub Release (v2.0)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v2.0)
 
 👉 **Google Drive (backup)**  
 [Download](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
