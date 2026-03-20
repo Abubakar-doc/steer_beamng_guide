@@ -47,7 +47,7 @@ Join the discussion on Discord:
 
 ## 🆕 What’s New (Latest Updates)
 
-### What’s New in android v0.5
+### 📱 Mobile App (v0.5)
     
 -   Accelerometer steering added (up to 1080°) with smoothing factor
 
@@ -60,14 +60,6 @@ Join the discussion on Discord:
 -   Improved gear shifting UI with clear active/inactive gear states
     
 -   Added option to invert app display
-
-### 📱 Mobile App (v0.3)
-* Accelerometer (tilt) steering support
-* Static gear shifter option
-* Faster button hold response
-* Layout creation, editing & backup
-* Support to add/spawn custom control buttons
-* Multiple pages support
 
 ### 🖥️ Windows App (v2.0)
 * Support for more custom buttons
