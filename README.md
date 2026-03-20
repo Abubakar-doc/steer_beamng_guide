@@ -47,6 +47,20 @@ Join the discussion on Discord:
 
 ## 🆕 What’s New (Latest Updates)
 
+### What’s New in android v0.5
+    
+-   Accelerometer steering added (up to 1080°) with smoothing factor
+
+-   Fixed connection lost issue when app is paused and resumed
+    
+-   Added tap action on “Fix Vehicle” to shift gearbox to Park/Neutral
+    
+-   User settings and preferences are now saved and synced locally
+    
+-   Improved gear shifting UI with clear active/inactive gear states
+    
+-   Added option to invert app display
+
 ### 📱 Mobile App (v0.3)
 * Accelerometer (tilt) steering support
 * Static gear shifter option
