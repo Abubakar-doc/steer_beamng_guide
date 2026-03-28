@@ -47,12 +47,11 @@ Join the discussion on Discord:
 
 ## 🆕 What’s New (Latest Updates)
 
-### 📱 Mobile App (v0.6) - Latest Changes
+### 📱 Mobile App (v0.6) - Major Update
 -   **Sequential Gearbox Mode**: New high-performance +/- shifting logic for racing and GT3 simulations.
 -   **Enhanced Haptic Feedback**: Advanced motor mapping that translates real-time FFB data into 4 tunable intensity bands (Low, Med, High, Max).
 -   **Universal Help System**: Premium interactive guide system with high-res screenshots and loading shimmer animations.
 -   **Interactive Image Viewer**: Swipeable gallery with pinch-to-zoom and animated double-tap-to-zoom support.
--   **Advanced Layout Manager**: Support for multiple pages per layout, spawning any control type, and custom vJoy button mapping (slots 34+).
 -   **Context-Aware Help**: Dedicated help buttons in every configuration screen (Connection, Controls, Layout, Haptics).
 
 ### 🖥️ Windows App (v3.0) - Major Update
@@ -276,7 +275,62 @@ All with **one thumb**.
 ---
 
 <details>
+<summary><strong>📐 Layout Customization</strong></summary>
+
+### Custom UI Layouts
+*   Create and manage **unlimited custom layouts** for different car types (drift, truck, F1).
+*   **Multi-Page Layouts**: Separate your main driving controls from secondary switches (lights, ignition) using multiple pages.
+*   **Dynamic Spawning**: Enter **Edit Mode** to live-spawn steering wheels, pedals, and shifters.
+*   **Custom vJoy Buttons**: Create unique buttons mapped to vJoy slots (up to 128) and place them anywhere.
+*   **Import/Export**: Share your `.layout.json` files with other players or back them up to your device.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📳 Haptic (Force) Feedback</strong></summary>
+
+### Real-Time Torque Simulation
+*   **Force Feedback Mapping**: Translates raw Torque data from Windows v3.0 helper into phone vibrations.
+*   **4 Intensity Bands**: Categorizes feedback into **Low, Medium, High, and Max** effects (like road texture vs. curb strikes).
+*   **Range Editor**: Visually set the thresholds for when each vibration effect should kick in.
+*   **Vibration Calibration**: Set the motor intensity (1–100%) for each category to match your specific phone hardware.
+*   **Game Setup**: Requires enabling **Force Feedback** in game settings (e.g., BeamNG) and selecting the **Gamepad** feedback type.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📟 Motion (Accelerometer) Steering</strong></summary>
+
+### Tilt-to-Steer
+*   **Realistic Rotation**: Control your car by tilting your phone like a physical steering wheel (up to 1080°).
+*   **Smoothing Factor**: Tune the input smoothing to eliminate jitters while maintaining responsiveness.
+*   **Calibration**: Zero-out your phone's tilt to match your natural resting position.
+*   **Mode Swapping**: Easily toggle between Motion and Thumb-Drag steering modes in the settings.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📖 Universal Help & UI</strong></summary>
+
+### Context-Aware Guidance
+*   **Multi-Screen Help**: Dedicated help buttons in Connections, Controls, Layouts, and Haptics.
+*   **Premium Viewers**: Interactive, high-resolution image galleries with **Pinch-to-Zoom** and **Double-tap zoom**.
+*   **In-Game Binding**: Built-in screenshot guides showing exactly how to map vJoy inputs in simulation games.
+*   **Invert Display**: Support for flipping the entire UI for left-handed play or unique cockpit mounting positions.
+
+</details>
+
+---
+
+<details>
 <summary><strong>🎯 Purpose of This Project</strong></summary>
+
 
 * Learn **Flutter & real-time networking**
 * Explore **virtual input devices**
