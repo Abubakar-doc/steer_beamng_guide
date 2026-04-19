@@ -27,38 +27,39 @@ Join the discussion on Discord:
 
 ### 📱 Android Controller App
 
-👉 **GitHub Release (v0.6)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v0.6)
+👉 **GitHub Release (v1.7)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/android-v1.7)
 
 👉 **Google Drive (backup)**  
-[Download](https://drive.google.com/drive/folders/1v5a4XZ01TdK4u7N93i6R76977p9U6g6d?usp=drive_link)
+[Download](https://drive.google.com/drive/folders/1z_RUUZYekkmCPgFYD74IEdy7bBKby09q?usp=drive_link)
 
 ---
 
 ### 🖥️ Windows Helper App
 
-👉 **GitHub Release (v3.0)**  
-[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v3.0)
+👉 **GitHub Release (v3.1)**  
+[Download](https://github.com/Abubakar-doc/steer_beamng_guide/releases/tag/v3.1)
 
 👉 **Google Drive (backup)**  
-[Download](https://drive.google.com/drive/folders/1TUNcVbo4Q0VQBiAy46MAfK1aTaKlzSSX)
+[Download](https://drive.google.com/drive/folders/1z_RUUZYekkmCPgFYD74IEdy7bBKby09q?usp=drive_link)
 
 ---
 
 ## 🆕 What’s New (Latest Updates)
 
-### 📱 Mobile App (v0.6) - Major Update
+### 📱 Mobile App (v1.7) - Major Update
+-   **NEW FEATURE — Enhanced Layouts / Button Boxes**: Build and customize unlimited layouts. Full control over buttons, shifters, and text boxes with custom sizes, positions, and rotation angles.
 -   **Sequential Gearbox Mode**: New high-performance +/- shifting logic for racing and GT3 simulations.
 -   **Enhanced Haptic Feedback**: Advanced motor mapping that translates real-time FFB data into 4 tunable intensity bands (Low, Med, High, Max).
--   **Universal Help System**: Premium interactive guide system with high-res screenshots and loading shimmer animations.
--   **Interactive Image Viewer**: Swipeable gallery with pinch-to-zoom and animated double-tap-to-zoom support.
--   **Context-Aware Help**: Dedicated help buttons in every configuration screen (Connection, Controls, Layout, Haptics).
+-   **Universal Help System**: Integrated a premium, interactive guide system with high-res screenshots and collapsible FAQ categories.
+-   **Interactive Image Viewer**: Swipeable gallery with pinch-to-zoom and animated zoom support.
 
-### 🖥️ Windows App (v3.0) - Major Update
+### 🖥️ Windows App (v3.1) - Major Update
+*   **Integrated Help Center**: Premium FAQ with diagrams and collapsible cards built directly into the desktop UI.
+*   **Markdown UI Rendering**: The update window and help text now render rich markdown for a professional experience.
 *   **Force Feedback (FFB) Listening**: New capability to receive real-time physics and torque data from the game and sync it to your phone.
 *   **Sequential Gearbox Support**: Native support for the Android app's new +/- shifting logic.
-*   **Expanded Button Mapping**: Support for up to 128 custom vJoy buttons.
-*   **Improved Compatibility**: Refined for complex multi-page mobile layouts.
+*   **Manual Update Check**: Dedicated button in Settings to verify and trigger latest version downloads.
 
 ---
 
@@ -81,7 +82,7 @@ BeamNG detects the setup as a **real steering wheel**.
 ---
 
 <details>
-<summary><strong>🖥️ Windows Helper App (v3.0)</strong></summary>
+<summary><strong>🖥️ Windows Helper App (v3.1)</strong></summary>
 
 ### Features
 
